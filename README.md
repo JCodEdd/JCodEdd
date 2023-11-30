@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋 I'm Edd
+Welcome to my GitHub! I'm a Computer Engineering Student that's passionate about software development and IT in general.
+Currently an aspiring Java and Spring developer that loves working hard, studying and exploring the vast world of technology.
 
-<!--
-**JCodEdd/JCodEdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Check Out Some Projects
+* Checkers AI (Java): Built a badass checkers playing AI using Minimax algorithm
+* Eddle Search Engine (Spring Boot): Created a web crawler & search engine with Scheduled, async tasks and more
+* And a few other things soon on my GitHub
 
-Here are some ideas to get you started:
+### Skills & Tools
+- Java | Spring Boot
+- MySQL | PostgreSQL | MongoDB
+- Data Structures & Algorithms
+- HTML/CSS | Some JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ⚡ Fun fact: I love cooking and enjoy coffee (too much some times) :)
