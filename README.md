@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Edd
-Welcome to my GitHub! I'm a Computer Engineering Student that's passionate about software development and IT in general.
-Currently an aspiring Java and Spring developer that loves working hard, studying and exploring the vast world of technology.
+Welcome to my GitHub! I'm a Java and Spring developer that's passionate about software and IT in general.
+I love working hard, studying and exploring the vast world of technology.
 
 ### Check Out Some Projects
 * Checkers AI (Java): Built a badass checkers playing AI using Minimax algorithm
@@ -8,7 +8,8 @@ Currently an aspiring Java and Spring developer that loves working hard, studyin
 * And a few other things soon on my GitHub
 
 ### Skills & Tools
-- Java | Spring Boot
+- Java | Spring
+- Junit | Mockito | AssertJ
 - MySQL | PostgreSQL | MongoDB
 - Data Structures & Algorithms
 - HTML/CSS | Some JS
